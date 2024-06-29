@@ -5,3 +5,6 @@
 
 
 Deployed Link :- https://discoveremailap.netlify.app/
+
+
+As backend is deployed on render and it might take 2-3 min to respond 
