@@ -8,3 +8,8 @@ Deployed Link :- https://discoveremailap.netlify.app/
 
 
 As backend is deployed on render and it might take 2-3 min to respond 
+
+Alternative: for slow response
+<h3>Clone this project in your system and change the baseUrl in backend and accordingly in frontend as well.</h3>
+
+<h5 style="color:red">Don't mind UI functioning is up to mark</h5>
